@@ -1,0 +1,4 @@
+﻿  main.cpp
+E:\sample_codes\Vulkan\vulkan_render\main.cpp(52,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\sample_codes\Vulkan\vulkan_render\main.cpp(63,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  vulkan_render.vcxproj -> E:\sample_codes\Vulkan\vulkan_render\x64\Debug\vulkan_render.exe
