@@ -1,6 +1,0 @@
-# Default behavior, if core.autocrlf is unset.
-* text=auto
-
-# Files to be converted to native line endings on checkout.
-*.cpp text
-*.h text
