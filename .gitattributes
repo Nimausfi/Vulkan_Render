@@ -6,7 +6,6 @@
 
 # Files to be converted to native line endings on checkout.
 *.cpp text
-*.h text
 
 # Text files to always have CRLF (dos) line endings on checkout.
 *.bat text eol=crlf
@@ -16,4 +15,3 @@
 
 # Generated source files will always have LF (unix) line endings on checkout.
 *.cpp text eol=lf
-*.h text eol=lf
