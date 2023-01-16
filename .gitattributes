@@ -16,7 +16,7 @@
 # Generated source files will always have LF (unix) line endings on checkout.
 *.cpp text eol=lf
 
-*linguist-language=Cpp
-*linguist-language=cpp
-*linguist-language=C++
-*linguist-language=c++
+*.linguist-language=Cpp
+*.linguist-language=cpp
+*.linguist-language=C++
+*.linguist-language=c++
