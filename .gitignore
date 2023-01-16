@@ -9,6 +9,7 @@ __pycache__
 # Ignore everything in external except the CMake file
 /external/*
 !/external/CMakeLists.txt
+stb_image.h
 *.so
 *.so.*
 _out64
