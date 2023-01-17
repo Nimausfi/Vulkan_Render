@@ -31,7 +31,6 @@ Texture Loading:              stb
 |Subpasses|
 |Diffuse Lighting and Ambient Light (Directional Light Source)|
 
-|---
 <br>
 
 <p align="center">  
@@ -39,4 +38,3 @@ Texture Loading:              stb
   
 <br>
 
-|---
