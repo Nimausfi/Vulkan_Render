@@ -16,7 +16,7 @@
 #include <algorithm>
 #include <array>
 
-#include "stb_image.h"
+#include "stb_image.hpp"
 
 #include "Mesh.h"
 #include "MeshModel.h"
